@@ -2,7 +2,17 @@
 
 This is the base template for create pixi.js project using [Create React App](https://github.com/facebook/create-react-app).
 
-If you don't specify a template (for example, `--template pixijs`), this template will be used by default.
+To use this template, add `--template pixijs` when creating a new app.
+
+For example:
+
+```sh
+npx create-react-app my-app --template pixijs
+
+# or
+
+yarn create react-app my-app --template pixijs
+```
 
 For more information, please refer to:
 
