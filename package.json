@@ -1,6 +1,6 @@
 {
   "name": "cra-template-pixijs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "react",
     "create-react-app",
@@ -8,9 +8,16 @@
     "pixi.js"
   ],
   "description": "The base template for Create React App with pixi.js.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KayacChang/cra-template-pixijs.git"
+  },
   "license": "MIT",
   "engines": {
     "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/KayacChang/cra-template-pixijs.git"
   },
   "files": [
     "template",
